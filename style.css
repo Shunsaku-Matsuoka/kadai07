@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body{
+  background-color: azure;
+}
+
+
+header {
+  width: 200px;
+  height:100px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 0;
+  
+}
+
+fieldset {
+  width: 450px;
+  height:450px;
+  margin:0 auto;
+  background-color: floralwhite;
+}
+
+label {
+  display: block;
+  width: 200px;
+  height:100px;
+  margin: 0 auto;
+}
+
+#button {
+  display: block;
+  width: 200px;
+  height:100px;
+  margin: 0 auto;
+}
